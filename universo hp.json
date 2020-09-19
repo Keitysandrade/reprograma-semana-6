@@ -1,0 +1,50 @@
+[
+    {"Titulo": "Harry Potter e a Pedra Filosofal",
+        "Tempo de duração": "2h e 39min",
+        "Ano": "2001"   
+    },
+
+    {
+        "Titulo": "Harry Potter e a Câmara Secreta ",
+        "Tempo de duração": "2h e 54min",
+        "Ano": "2002"   
+    },
+
+    {"Titulo": "Harry Potter e o Prisioneiro de Azkaban",
+        "Tempo de duração": "2h e 22min",
+        "Ano": "2004"   
+    },
+
+    {"Titulo": "Harry Potter e o Cálice de Fogo",
+        "Tempo de duração": "2h e 37min",
+        "Ano": "2005"   
+    },
+
+    {"Titulo": "Harry Potter e a Ordem da Fênix",
+        "Tempo de duração": "2h e 22min",
+        "Ano": "2007"   
+    },
+    {"Titulo": "Harry Potter e o Enigma do Príncipe",
+        "Tempo de duração": "2h e 34min",
+        "Ano": "2009"   
+    },
+
+    {"Titulo": "Harry Potter e as Relíquias da Morte: Parte 1 ",
+        "Tempo de duração": "2h e 26min",
+        "Ano": "2010"   
+    },
+
+    {"Titulo": "Harry Potter e as Relíquias da Morte: Parte 2",
+        "Tempo de duração": "2h e 10 min",
+        "Ano": "2011"   
+    },
+    {"Titulo": "Animais Fantásticos e Onde Habitam",
+        "Tempo de duração": "2h e 13 min",
+        "Ano": "2016"   
+    },
+
+    {"Titulo": "Animais Fantásticos: Os Crimes de Grindelwald",
+        "Tempo de duração": "2h e 13 min",
+        "Ano": "2018"   
+    } 
+]
