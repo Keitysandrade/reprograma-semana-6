@@ -1,0 +1,50 @@
+[
+    {   "Estado": "Pernambuco",
+        "Cidade": "Olinda",
+        "Atracao": "Carnaval"        
+    },
+
+    {
+        "Estado": "Amapá",
+        "Cidade": "Macapá",
+        "Atracao": "Linha do Equador"   
+    },
+
+    {   "Estado": "Tocantins",
+        "Cidade": "Palmas",
+        "Atracao": "Parques"   
+    },
+
+    {   "Estado": "Ceará",
+        "Cidade": "Fortaleza",
+        "Atracao": "Praia do Futuro"   
+    },
+
+    {   "Estado": "Maranhão",
+        "Cidade": "São Luís",
+        "Atracao": "Bumba-meu-boi"   
+    },
+    {   "Estado": "Bahia",
+        "Cidade": "Salvador",
+        "Atracao": "Elevador Lacerda"   
+    },
+
+    {   "Estado": "Rio Grande do Norte",
+        "Cidade": "Natal",
+        "Atracao": "Cidade do Sol"   
+    },
+
+    {   "Estado": "Pernambuco",
+        "Cidade": "Recife",
+        "Atracao": "Instituto Ricardo Brennand"   
+    },
+    {   "Estado": "Alagoas",
+        "Cidade": "Maceió",
+        "Atracao": "Caribe Brasileiro"   
+    },
+
+    {   "Estado": "São Paulo",
+        "Cidade": "São Paulo",
+        "Atracao": "Bairro da Liberdade"   
+    } 
+]
