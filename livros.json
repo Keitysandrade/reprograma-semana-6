@@ -1,0 +1,50 @@
+[
+    {"Titulo": "Orgulho e Preconceito",
+        "Autor": "Jane Austen",
+        "Numero de paginas": "278"   
+    },
+
+    {
+        "Titulo": "1984",
+        "Autor": "George Orwell",
+        "Numero de paginas": "328"   
+    },
+
+    {"Titulo": "O Pequeno Príncipe",
+        "Autor": "Antoine de Saint-Exupéry",
+        "Numero de paginas": "93"   
+    },
+
+    {"Titulo": "O Conde de Monte Cristo",
+        "Autor": "Alexandre Dumas",
+        "Numero de paginas": "1304"   
+    },
+
+    {"Titulo": "Um Estudo em Vermelho",
+        "Autor": "Arthur Conan Doyle",
+        "Numero de paginas": "152"   
+    },
+    {"Titulo": "O Processo",
+        "Autor": "Franz Kafka",
+        "Numero de paginas": "304"   
+    },
+
+    {"Titulo": "Cem Anos de Solidão",
+        "Autor": "Gabriel García Márquez",
+        "Numero de paginas": "352"   
+    },
+
+    {"Titulo": "Grande Sertão: Veredas",
+        "Autor": "João Guimarães Rosa",
+        "Numero de paginas": "602"   
+    },
+    {"Titulo": "O Retrato de Dorian Gray",
+        "Autor": "Oscar Wilde",
+        "Numero de paginas": "264"   
+    },
+
+    {"Titulo": "A Redoma de Vidro",
+        "Autor": "Sylvia Plath",
+        "Numero de paginas": "244"   
+    }
+]
