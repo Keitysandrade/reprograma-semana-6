@@ -1,0 +1,50 @@
+[
+    {"Titulo": "The Office",
+        "Genero": "Comedia",
+        "Ano": "2015"   
+    },
+
+    {
+        "Titulo": "Fleabag",
+        "Genero": "Comedia",
+        "Ano": "2019"   
+    },
+
+    {"Titulo": "This is Us",
+        "Genero": "Drama",
+        "Ano": "2016"   
+    },
+
+    {"Titulo": "Downton Abbey",
+        "Genero": "Drama",
+        "Ano": "2010"   
+    },
+
+    {"Titulo": "Homecoming",
+        "Genero": "Drama",
+        "Ano": "2018"   
+    },
+    {"Titulo": "Transparent",
+        "Genero": "Comedia",
+        "Ano": "2014"   
+    },
+
+    {"Titulo": "The Boys",
+        "Genero": "Super heroi",
+        "Ano": "2019"   
+    },
+
+    {"Titulo": "Hand of God",
+        "Genero": "Drama",
+        "Ano": "2014"   
+    },
+    {"Titulo": "Prison Break",
+        "Genero": "Criminal",
+        "Ano": "2005"   
+    },
+
+    {"Titulo": "American Horror Story",
+        "Genero": "Terror",
+        "Ano": "2011"   
+    }
+]
