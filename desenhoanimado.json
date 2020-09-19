@@ -1,0 +1,50 @@
+[
+    {"Nome": "Incrivel mundo de Gumball",
+        "Personagens": ["Gumball", "Darwin", "Dayse"],
+        "Temporadas": "6"        
+    },
+
+    {
+        "Nome": "Bob Esponja ",
+        "Personagens": ["Bob Esponja", "Patrick", "Lula Molusco"],
+        "Temporadas": "12"   
+    },
+
+    {"Nome": "Jovens titans em acao",
+        "Personagens": ["Robin", "Estelar", "Mutano"],
+        "Temporadas": "5"   
+    },
+
+    {"Nome": "Ursos sem curso",
+        "Personagens": ["Pardo", "Panda", "Polar"],
+        "Temporadas": "4"   
+    },
+
+    {"Nome": "As meninas super poderosas",
+        "Personagens": ["Lindinha", "Docinho", "Florzinha"],
+        "Temporadas": "6"   
+    },
+    {"Nome": "A Mansão Foster para Amigos Imaginários",
+        "Personagens": ["Frankie Foster", "Minguado", "Senhor Coelho"],
+        "Temporadas": "6"   
+    },
+
+    {"Nome": "Fudencio e seus amigos",
+        "Personagens": ["Fudencio", "Conrado", "Funeria"],
+        "Temporadas": "6"   
+    },
+
+    {"Nome": "Pokemon",
+        "Personagens": ["Ash", "Jessie", "James"],
+        "Temporadas": "23"   
+    },
+    {"Nome": "Naruto",
+        "Personagens": ["Orochimaru", "Kakashi", "Tsunade"],
+        "Temporadas": "9"   
+    },
+
+    {"Nome": "Os Simpsons",
+    "Personagens": ["Homer", "Bart", "Lisa"],
+        "Temporadas": "31"   
+    } 
+]

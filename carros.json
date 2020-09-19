@@ -1,0 +1,50 @@
+[
+    {   "Modelo": "Celta",
+        "Fabricante": "Chevrolet",
+        "Ano": "2000-2015"        
+    },
+
+    {
+        "Modelo": "Fusca",
+        "Fabricante": "Volkswagen",
+        "Ano": "1938-2003"   
+    },
+
+    {   "Modelo": "Brasilia",
+        "Fabricante": "Volkswagen",
+        "Ano": "1973-1982"   
+    },
+
+    {   "Modelo": "Opala",
+        "Fabricante": "Chevrolet",
+        "Ano": "1968-1992"   
+    },
+
+    {   "Modelo": "Parati",
+        "Fabricante": "Volkswagen",
+        "Ano": "1982-2012"   
+    },
+    {   "Modelo": "Besta",
+        "Fabricante": "Kia",
+        "Ano": "1992-2006"   
+    },
+
+    {   "Modelo": "Bugato",
+        "Fabricante": "Gurgel",
+        "Ano": "1970-1971"   
+    },
+
+    {   "Modelo": "Toyota AE86",
+        "Fabricante": "Toyota",
+        "Ano": "1983-1987"   
+    },
+    {   "Modelo": "106",
+        "Fabricante": "Peugeot",
+        "Ano": "1991-2003"   
+    },
+
+    {   "Modelo": "R32",
+        "Fabricante": "Nissan",
+        "Ano": "1957-2002"   
+    } 
+]
