@@ -1,0 +1,50 @@
+[
+    {   "Nome": "Morango",
+        "Cor": "Vermelho",
+        "Vitaminas": ["A", "C", "E", "B5"]        
+    },
+
+    {
+        "Nome": "Manga espada",
+        "Cor": "Verde",
+        "Vitaminas": ["A", "C"]   
+    },
+
+    {   "Nome": "Abacate",
+        "Cor": "Verde",
+        "Vitaminas": ["A", "B", "C", "E"]   
+    },
+
+    {   "Nome": "Banana",
+        "Cor": "Amarela",
+        "Vitaminas": ["C", "B1", "B2", "B6"]   
+    },
+
+    {   "Nome": "Melancia",
+        "Cor": "Verde",
+        "Vitaminas": ["B", "C"]   
+    },
+    {   "Nome": "Acerola",
+        "Cor": "Vermelha",
+        "Vitaminas": ["A","B1", "B2", "C"]   
+    },
+
+    {   "Nome": "Goiaba",
+        "Cor": "Verde",
+        "Vitaminas": ["A"]   
+    },
+
+    {   "Nome": "Uva",
+        "Cor": "Roxo",
+        "Vitaminas": ["C", "B"]   
+    },
+    {   "Nome": "Laranja",
+        "Cor": "Laranja",
+        "Vitaminas": ["C"]   
+    },
+
+    {   "Nome": "Carambola",
+        "Cor": "Amarela",
+        "Vitaminas": ["A", "B", "C"]  
+    } 
+]
