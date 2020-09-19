@@ -1,0 +1,50 @@
+[
+    {   "Nome": "Pato",
+        "Classe": "Ave",
+        "Reproducao": "Ovos"        
+    },
+
+    {
+        "Nome": "Cachorro",
+        "Classe": "Mamífero",
+        "Reproducao": "Útero"   
+    },
+
+    {   "Nome": "Ornitorrinco",
+        "Classe": "Mamífero",
+        "Reproducao": "Ovos"   
+    },
+
+    {   "Nome": "Jacaré",
+        "Classe": "Répteis",
+        "Reproducao": "Ovos"   
+    },
+
+    {   "Nome": "Urso",
+        "Classe": "Mamífero",
+        "Reproducao": "Útero"   
+    },
+    {   "Nome": "Macaco",
+        "Classe": "Mamífero",
+        "Reproducao": "Útero"   
+    },
+
+    {   "Nome": "Muriçoca",
+        "Classe": "Inseto",
+        "Reproducao": "Ovos"   
+    },
+
+    {   "Nome": "Sapo",
+        "Classe": "Anfíbio",
+        "Reproducao": "Ovos"   
+    },
+    {   "Nome": "Arara",
+        "Classe": "Ave",
+        "Reproducao": "Ovos" 
+    },
+
+    {   "Nome": "Leão",
+        "Classe": "Mamífero",
+        "Reproducao": "Útero"   
+    } 
+]
